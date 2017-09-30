@@ -23,3 +23,10 @@ func main() {
 ```
 $ go run hello.go
 ```
+
+
+# 编译
+
+```
+$ go build example.go
+```
