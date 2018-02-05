@@ -6,6 +6,12 @@
 $ yum install -y golang
 ```
 
+# 获取 package
+
+```
+$ go get github.com/gin-gonic/gin
+```
+
 # hello.go
 
 ```
